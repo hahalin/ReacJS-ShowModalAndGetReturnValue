@@ -15,3 +15,9 @@
 * 啟動測試網站: `node server.js` (預設 port is 3000)
 * 在瀏覽器輸入 [localhost:3000/Modal.html](http://localhost:3000/Modal.html).
 
+## 執行畫面
+
+![Image of screenshots 1](img/a.png)
+
+![Image of screenshots 2](img/b.png)
+
