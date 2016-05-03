@@ -4,7 +4,7 @@
 
 ## 引用Module
 
-1. [https://github.com/cinek260/react-modal-with-keys-action](https://github.com/cinek260/react-modal-with-keys-action){:target="_blank"}
+1. [https://github.com/cinek260/react-modal-with-keys-action](https://github.com/cinek260/react-modal-with-keys-action){target="_blank"}
 2. css framework：bootstrap 3
 
 ## 如何測試這個範例
