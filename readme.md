@@ -4,12 +4,12 @@
 
 ## 引用Module
 
-1. [react modal with keys action](https://github.com/cinek260/react-modal-with-keys-action).
+1. [React Modal With Keys Action](https://github.com/cinek260/react-modal-with-keys-action).
 2. css framework：bootstrap 3
 
 ## 如何測試這個範例
 
-* 下載這個專案 `https://github.com/hahalin/ReacJS-ShowModalAndGetReturnValue.git`
+* 下載這個專案 `git clone https://github.com/hahalin/ReacJS-ShowModalAndGetReturnValue.git`
 * Retrieve dependencies: `npm install`
 * 使用webpack編譯js `webpack`
 * 啟動測試網站: `node server.js` (預設 port is 3000)
