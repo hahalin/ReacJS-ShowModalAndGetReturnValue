@@ -1,3 +1,12 @@
+## 專案說明
+
+使用ReactJS的方式設計ShowModal開窗，取得回傳值
+
+## 引用Module
+
+1. [react modal with keys action](https://github.com/cinek260/react-modal-with-keys-action).
+2. css framework：bootstrap 3
+
 ## 如何測試這個範例
 
 * 下載這個專案 `https://github.com/hahalin/ReacJS-ShowModalAndGetReturnValue.git`
